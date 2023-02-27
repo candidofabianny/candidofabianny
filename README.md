@@ -8,7 +8,7 @@
 
 ---
 
-<img align="right" width="470px" height="400px" src="https://cdn.dribbble.com/users/876183/screenshots/4178051/_______.gif">
+<img align="right" width="470px" height="400px" src="https://camo.githubusercontent.com/6613e6cdf6314326d2c61930d966830f985e32683f2c9e281b3870866e853ebd/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f4e67757259316f347a3038304a666f797a772f67697068792e6769663f6369643d65636630356534376a6f7674367261356b686a31326b63336865657533626e706b6465777a347177327967756870716c267269643d67697068792e6769662663743d73">
 
 - 👨🏽‍💻   Currently, I'm working as a **Front-end developer** at [Diversity Cyber Council](https://diversitycybercouncil.com/).
 
