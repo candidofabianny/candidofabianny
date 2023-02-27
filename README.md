@@ -1,7 +1,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá!+👩🏼‍💻;Hola!+🖐🏼;안녕!+👋🏼;&center=true&size=30&color=29d2a">
 </h1>
-<h3 align="center">Front-end developer</h3>
+<h3 align="center">Front-end developer and designer</h3>
 
 <p align="center">I'm a full stack software engineer, and an audio engineer. I enjoy making web applications and music as they both require a lot of creativity, and there's no limits to what you can do. I yearn to always learn more to become a better programmer and version of myself.</p>
 
@@ -10,11 +10,11 @@
 
 <img align="right" width="470px" height="300px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif">
 
-- 👨🏽‍💻   Currently, I'm working as a **Full-Stack Software Engineer** at [Diversity Cyber Council](https://diversitycybercouncil.com/).
+- 👨🏽‍💻   Currently, I'm working as a **Front-end developer** at [Diversity Cyber Council](https://diversitycybercouncil.com/).
 
-- 👥   I'm open to collaborations and work. Feel free to reach out to me if you have a project you'd like me on.
+- 👥   I'm open to collaborations and work. Feel free to reach out to me if you have a project you'd like me on!
 
-- 🥷🏽   I'm currently learning **MERN Stack**, and **Machine Learning**.
+- 🥷🏽   I'm currently learning **React**, and **Github**.
 
 - 🗓   Ask me about **JavaScript**, **React.js**, and **Ruby**.
 
