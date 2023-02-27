@@ -53,6 +53,7 @@
 
 </br>
     
+</p>    
    
 <h2>🎵 Playing On Spotify<h2>  
 
