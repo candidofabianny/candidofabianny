@@ -8,7 +8,7 @@
 
 ---
 
-<img align="right" width="470px" height="300px" src="https://pro2-bar-s3-cdn-cf5.myportfolio.com/17a47d9e8f4727ce5f3e48805b2d8eb2/67cb1a46-1d0c-45fe-ab3f-520e4802b1b8_rwc_0x7x800x626x800.gif?h=3ef38d2bcece76203455258e0d585fe9">
+<img align="right" width="470px" height="400px" src="https://pro2-bar-s3-cdn-cf5.myportfolio.com/17a47d9e8f4727ce5f3e48805b2d8eb2/67cb1a46-1d0c-45fe-ab3f-520e4802b1b8_rwc_0x7x800x626x800.gif?h=3ef38d2bcece76203455258e0d585fe9">
 
 - 👨🏽‍💻   Currently, I'm working as a **Front-end developer** at [Diversity Cyber Council](https://diversitycybercouncil.com/).
 
