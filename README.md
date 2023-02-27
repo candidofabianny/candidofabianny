@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá!+👩‍💻;Hola!+🖐🏼;안녕!+💃🏼;&center=true&size=30&color=29d2a">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá!+👩🏼‍💻;Hola!+🖐🏼;안녕!+👋🏼;&center=true&size=30&color=29d2a">
 </h1>
 <h3 align="center">A software engineer and audio engineer from Kenya.</h3>
 
