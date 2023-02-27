@@ -1,7 +1,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá!+👩🏼‍💻;Hola!+🖐🏼;안녕!+👋🏼;&center=true&size=30&color=f28abf">
 </h1>
-<h3 align="center">Front-end developer and designer</h3>
+<h3 align="center">Brazilian Front-end developer</h3>
 
 <p align="center">I'm a full stack software engineer, and an audio engineer. I enjoy making web applications and music as they both require a lot of creativity, and there's no limits to what you can do. I yearn to always learn more to become a better programmer and version of myself.</p>
 
