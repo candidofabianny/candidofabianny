@@ -3,7 +3,7 @@
 </h1>
 <h3 align="center">Brazilian Front-end developer</h3>
 
-<p align="center">I'm a full stack software engineer, and an audio engineer. I enjoy making web applications and music as they both require a lot of creativity, and there's no limits to what you can do. I yearn to always learn more to become a better programmer and version of myself.</p>
+<p align="center">I'm a front end developer, and web designer. Brazilian student living abroad.</p>
 
 
 ---
@@ -37,9 +37,7 @@
  <img height="42" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
  <img height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
  <img height="37" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
- <img height="37" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-          
-     
+      
      
  </p>
      
