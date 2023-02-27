@@ -56,5 +56,5 @@
    
 <h2>🎵 Playing On Spotify<h2>  
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=shaqdeff&cover_image=true&theme=default&bar_color=8a938a)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1vnkru5domglm1rwur6k1nlho&cover_image=true&theme=default&show_offline=false&background_color=dfb9b9&interchange=false&bar_color=ff75bf&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
   
