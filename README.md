@@ -3,7 +3,7 @@
 </h1>
 <h3 align="center">Brazilian Front-end developer</h3>
 
-<p align="center">I'm a front end developer, and web designer. Brazilian student living abroad.</p>
+<p align="center">I'm a front-end developer, and web designer. Brazilian student living abroad.</p>
 
 
 ---
