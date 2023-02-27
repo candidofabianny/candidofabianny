@@ -8,7 +8,7 @@
 
 ---
 
-<img align="right" width="470px" height="300px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif">
+<img align="right" width="470px" height="300px" src="![image](https://user-images.githubusercontent.com/125562692/221620104-e7fd804b-f0be-4780-8c0d-4807aef9f5d1.png)">
 
 - 👨🏽‍💻   Currently, I'm working as a **Front-end developer** at [Diversity Cyber Council](https://diversitycybercouncil.com/).
 
