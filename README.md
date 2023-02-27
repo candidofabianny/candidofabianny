@@ -41,8 +41,8 @@
  <img height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 
           
-          
-                                                                                                                                           
+     
+     
  </p>
      
   </br>
@@ -52,6 +52,7 @@
 </div>
 
 </br>
+    
    
 <h2>🎵 Playing On Spotify<h2>  
 
