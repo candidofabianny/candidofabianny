@@ -16,7 +16,7 @@
 
 - 🚀   You can view all **my projects** by clicking on this [link](https://github.com/candidofabianny?tab=repositories).
 
- <h2>📲  Let's Connect<h2>
+ <h2> Let's Connect<h2>
  <a href="https://www.linkedin.com/in/fabianny-candido/">
   <img align="left" alt="Fabianny LinkedIn" height="24px" src="https://raw.githubusercontent.com/shaqdeff/shaqdeff/main/linkedin.png" />
  </a>
@@ -25,7 +25,7 @@
    </a>
 </br>
  
- <h2>🛠 Languages & Tools<h2>
+ <h2> Languages & Tools<h2>
  <p align="left">
  <img height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
  <img height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
