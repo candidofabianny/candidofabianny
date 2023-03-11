@@ -12,9 +12,9 @@
 
 - 💻   Currently, I'm working as a **Front-end developer** at [Diversity Cyber Council](https://diversitycybercouncil.com/).
 
-- 🐱‍💻🏽   I'm currently learning **React**, **Next.js** and **Github**.
+- 🐱‍   I'm currently learning **React**, **Next.js** and **Git**.
 
-- 💻   You can view all **my projects** by clicking on this [link](https://github.com/candidofabianny?tab=repositories).
+- 🚀   You can view all **my projects** by clicking on this [link](https://github.com/candidofabianny?tab=repositories).
 
  <h2>📲  Let's Connect<h2>
  <a href="https://www.linkedin.com/in/fabianny-candido/">
