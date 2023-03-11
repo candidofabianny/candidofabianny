@@ -14,7 +14,7 @@
 
 - 👥   I'm open to collaborations and work. Feel free to reach out to me if you have a project you'd like me on!
 
-- 🥷🏽   I'm currently learning **React**, and **Github**.
+- 🥷🏽   I'm currently learning **React**, **Next.js** and **Github**.
 
 - 💻   You can view all **my projects** by clicking on this [link](https://github.com/shaqdeff?tab=repositories). Feel free to open an issue in any project if you spot a bug and I will try to fix it as soon as possible.
 
