@@ -14,7 +14,7 @@
 
 - 🐱‍   I'm learning **React**, **Next.js** and **Git**.
 
- <h2> Let's Connect<h2>
+ <h2> Let's Connect!<h2>
  <a href="https://www.linkedin.com/in/fabianny-candido/">
   <img align="left" alt="Fabianny LinkedIn" height="24px" src="https://raw.githubusercontent.com/shaqdeff/shaqdeff/main/linkedin.png" />
  </a>
