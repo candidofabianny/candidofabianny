@@ -33,13 +33,6 @@
      
  </p>
      
-  </br>
-   ## Languages and Frameworks:
-<br>
-<div align="center" width="100%">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=candidofabianny&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Fabianny Pages" height="155"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=candidofabiannytheme=tokyonight" alt="Fabianny's Contributions" height="155"/>
-</div>
 
 </br>
     
