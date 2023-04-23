@@ -12,7 +12,7 @@
 
 - 💻   Currently, I'm working as a **Front-end developer** at [Diversity Cyber Council](https://diversitycybercouncil.com/).
 
-- 🐱‍   I'm learning **React**, **Next.js** and **Git**.
+- 🐱‍   I'm learning **Typescript**, **Next.js** and **Git**.
 
  <h2> Let's Connect!<h2>
  <a href="https://www.linkedin.com/in/fabianny-candido/">
