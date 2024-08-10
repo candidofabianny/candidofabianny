@@ -1,16 +1,17 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá!+👩🏼‍💻;Hi!+👩🏼‍;Hola!+🖐🏼;&center=true&size=30&color=f28abf">
 </h1>
-<h3 align="center">Brazilian Front-end developer</h3>
+<h3 align="center">Brazilian developer</h3>
 
 <p align="center">I'm a front-end developer, interested in design and photography. Always learning!</p>
 
 
 ---
 
-<img align="right" width="380px" height="310px" src="https://i.pinimg.com/564x/e3/60/57/e360576c81a4d95f92c2b58070da3ecb.jpg">
+<img align="right" width="380px" height="470px" src="https://i.pinimg.com/564x/e3/60/57/e360576c81a4d95f92c2b58070da3ecb.jpg">
 
 - 💻   Currently, studying  **Computer Science** at [University of Buenos Aires](https://www.uba.ar/).
+- Computing technician by [IFPR](https://ifpr.edu.br/institucional/o-instituto/sobre-o-ifpr/).
 
 - 🐱‍   I'm learning **Typescript**, **Next.js**.
 
