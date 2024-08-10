@@ -8,8 +8,6 @@
 
 ---
 
-<img align="right" width="380px" height="470px" src="https://i.pinimg.com/564x/e3/60/57/e360576c81a4d95f92c2b58070da3ecb.jpg">
-
 - 💻   Currently, studying  **Computer Science** at [University of Buenos Aires](https://www.uba.ar/).
 - Computing technician by [IFPR](https://ifpr.edu.br/institucional/o-instituto/sobre-o-ifpr/).
 
