@@ -11,7 +11,7 @@
 - 💻   Currently, studying  **Computer Science** at [University of Buenos Aires](https://www.uba.ar/).
 - Computing technician by [IFPR](https://ifpr.edu.br/institucional/o-instituto/sobre-o-ifpr/).
 
-- 🐱‍   I'm learning **Typescript**, **Next.js**.
+- 🐱‍   I'm learning **Python**.
 
  <h2> Let's Connect!<h2>
  <a href="https://www.linkedin.com/in/fabianny-candido/">
